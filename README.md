@@ -1,5 +1,5 @@
 # Xrm.Data.PowerShell
-Usage of Microsoft Xrm.Data.Powershell
+This module demonstrate on how to automatically setup different theme for your Dynamics365 environment using Powershell module by  Microsoft.Xrm.Data.Powershell. Handy if you are administering multiple Dynamics365 environment.
 
 # Pre Requisite
 ## Step 1: Install Powershell for CRM Connector
